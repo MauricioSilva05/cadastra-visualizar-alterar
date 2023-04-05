@@ -1,0 +1,161 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #064255;
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+#pnome{
+    font-size: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: #064255;
+    padding: 15px;
+}
+
+.container{
+    display: flex;
+    background-color: white;
+}
+.main1{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    text-indent: 3em;
+    
+}
+.main{
+    height: 800px;
+    padding: 50px 50px 0px 0px;
+    margin: auto; 
+    border-top: solid 2px #22C0D4;
+}
+
+form{
+    margin: auto;
+    width: 46%;
+    padding: 5px 30px;
+    box-shadow: 0px 0px 10px black;
+    border-radius: 10%/50%;
+}
+
+input{
+    border: 1px solid #3152BB;
+    border-radius: 10px;
+    background-color: #cae0f8;
+}
+select{
+    border: 1px solid #3152BB;
+    border-radius: 10px;
+    background-color: #cae0f8;
+}
+
+.nomedados1{
+    display: flex;
+    font-weight: bold;
+    gap: 0px 345px;
+    
+}
+.nomedados2{
+    display: flex;
+    font-weight: bold;
+}
+.nomedados3{
+    display: flex;
+    font-weight: bold;
+    gap: 0px 193px;
+  
+}
+#nomeestado{
+    padding: 0px 0px 0px 175px;
+}
+#nomecep{
+    padding: 0px 145px;
+    margin: 0px;
+}
+#nomerg{
+padding: 0px 205px 0px 0px;
+}
+#nomeorgao{
+padding: 0px 67px 0px 0px;
+}
+#nomematricula{
+  padding: 0px 0px 0px 23px;
+}
+
+.dados{
+    display: flex;
+    font-weight: bold;
+    gap: 0px 39px;
+    height: 30px;
+}
+
+.config1{
+    width: 450px;
+}
+
+.config2{
+    width: 250px;
+}
+
+.config3{
+    width: 150px;
+    text-align: center;
+}
+
+.config4{
+    width: 600px;
+}
+
+.config5{
+    width: 600px;
+    height: 30px;
+}
+
+.label1{
+    padding: 15px 10px 0px;
+    gap: 10px;
+    justify-content: center;
+    display: flex;
+}
+.check1{
+    padding: 0px 10px;
+    display: flex;
+}
+
+#botao{
+    background-color: #015958;
+    color: white;
+    padding: 10px;
+    border: 3px rgb(0, 0, 0);
+    border-radius: 10px;
+    width: 200px;
+    height: 50px;
+    font-size: 15px;
+    cursor: pointer;
+    transition: 0.5s;
+    font-weight: bold;
+} 
+
+#botao:hover{
+color: black;
+background-color:#C4E1FF;
+font-weight: bold;
+}
+
+#layoutbotao{
+    padding: 30px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+}
+
