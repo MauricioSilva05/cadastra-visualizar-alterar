@@ -34,7 +34,7 @@
 <h1>Cadastros</h1>
 
 <div class="nomedados5">
-    <div class="nome"><p>Nome Completo</p></div>
+    <div class="nome"><p>Luna meu amor</p></div>
 </div>
 
 <div class="dadosnome">
