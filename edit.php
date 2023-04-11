@@ -111,7 +111,7 @@
 </div>
 
 <div id="layoutbotao">
-<input type="submit" value="Atualizar dados" id="botao">
+<input type="submit" value="Atualizar dados" class="botao">
 </div>
 </form>
  
